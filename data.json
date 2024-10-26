@@ -1,0 +1,110 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rate": null,
+      "photo": "https://m.media-amazon.com/images/I/81eyr8gG8NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Stranger",
+      "author": "Albert Camus",
+      "rate": null,
+      "photo": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400"
+    },
+    {
+      "id": "751f",
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "photo": "https://m.media-amazon.com/images/I/51t39SMRzjL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "103",
+      "text": "Such a great book",
+      "rate": 5,
+      "book": "101"
+    },
+    {
+      "id": "104",
+      "text": "not recommending",
+      "rate": 2,
+      "book": "101"
+    },
+    {
+      "id": "7f20",
+      "text": "woow",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "801b",
+      "text": "woooooooooooooow",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "bffd",
+      "text": "wwwwwoooooooowwww",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "5c7a",
+      "text": "yoohooo",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "8619",
+      "text": "wooowwwwwwww",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "f3b8",
+      "text": "yeaaaaaaaah",
+      "rate": "4",
+      "book": "751f"
+    },
+    {
+      "id": "adb5",
+      "text": "ahhahahahaha",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "aa83",
+      "text": "what thee",
+      "rate": "2",
+      "book": "751f"
+    },
+    {
+      "id": "d0e8",
+      "text": "uhuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "99c9",
+      "text": "uhuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "b0c5",
+      "text": "uhuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+      "rate": "5",
+      "book": "751f"
+    },
+    {
+      "id": "8241",
+      "text": "woooow",
+      "rate": "5",
+      "book": "102"
+    }
+  ]
+}
